@@ -1,4 +1,4 @@
-[[Indigno de ser humano]]
+[[Indigno de ser humano-Osamu Dazai]]
 
 En el japon de los años 30, un joven afable de caracterisiticas poco comunes como la facilidad por hacer a las personas reir, se vuelve con el paso del tiempo preso de la desconexion con el mundo que lo rodea, esto mismo lo lleva a contemplar la vida y a vivirla de una forma atros, intentando un suicidio y fallando en el proceso se ve inmerso en el peso de las consecuencias, ahora con esa marca encima y su adicción al alcohol, procura tener una vida comun a cuestas de aquellas personas dispuestas a ayudarle, aunque el nunca termine de entender que lo hermoso de que alguien te de una mano, es tender la otra en agradecimiento para ayudar de la mejor forma posible, dado que ==la vida tiene que fluir en ambas direcciones cuando se trata de las relaciones==.
 
