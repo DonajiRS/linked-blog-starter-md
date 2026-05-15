@@ -1,4 +1,5 @@
 [[Cartas a un joven poeta-Rainer Maria Rilke]]
+[[Libro]], [[Mini-essay]]
 
 Cuando una IA me recomendo este libro, como con la mayoria de las cosas que en la actualidad me recomiende una IA, decidi hacerle caso, quiza con la idea equivocada, o no, de que conoce todo lo que yo pueda necesitar, pero con este mismo afan por encontrar cosas que normalmente me costaria a mi mucho mas tiempo descubrir por mi propia cuenta, termine por percatarme de la perdida de este proceso y como tambien esto nos causa una disminución en nuestro propio deseó, cosa que estas cartas trajeron un poco de vuelta, completando una especie de paradoja extraña.
 Por medio de estas cartas de alguien del pasado a quien no conocia, para alguien de quien no tengo ni idea, que conecten tanto con mis idead y mis teorias respecto a algunos aspectos que me aflijen hoy mismo, me parece apasionante y sorprendente.

@@ -1,4 +1,4 @@
-[[Mini-essay]]
+[[Mini-essay]],  [[Entretenimiento]]
 
 
 Un curioso marco de una epoca entera reflejado en un episodio, que tan complicado puede ser eso? 
