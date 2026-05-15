@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"68e2850f4759457f","type":"file","file":"Git2/Images/Maceta con fondo y empotrable.png","x":-350,"y":-464,"width":140,"height":249},
+		{"id":"aa179ed2f7b5de01","type":"file","file":"Git2/Images/Jardin colgante.png","x":-200,"y":-464,"width":166,"height":249},
+		{"id":"e70986e96363f563","type":"file","file":"Git2/Images/Vertical light.png","x":-20,"y":-464,"width":187,"height":249},
+		{"id":"b4380f7568c26caf","type":"file","file":"Git2/Images/Folia Branch idea.png","x":180,"y":-464,"width":204,"height":249},
+		{"id":"21b479a92d8ab041","type":"file","file":"Git2/Images/Macetas modulares.png","x":-350,"y":-180,"width":300,"height":200},
+		{"id":"63c5703b473ebd34","type":"link","url":"https://www.thingiverse.com/thing:6721751","x":-350,"y":60,"width":300,"height":322},
+		{"id":"3852330e06b6ca9f","type":"file","file":"Git2/Images/Sistema Vertical regado automatico.png","x":400,"y":-464,"width":249,"height":249},
+		{"id":"3924854647a81d17","type":"link","url":"https://www.thingiverse.com/thing:903411","x":-34,"y":60,"width":316,"height":322},
+		{"id":"47e435856152b558","type":"text","text":"Producto planta portabasos\n\nhttps://www.thingiverse.com/thing:6721751","x":-350,"y":440,"width":280,"height":122},
+		{"id":"9b5a4014e769de20","type":"text","text":"Maceta autoregable\n\nhttps://www.thingiverse.com/thing:903411","x":-30,"y":440,"width":259,"height":120},
+		{"id":"645ce693db6ba7dc","type":"link","url":"https://www.ecoengineeringhub.com/diy-automatic-plant-watering-system/?utm_source=Pinterest&utm_medium=organic","x":300,"y":60,"width":324,"height":322}
+	],
+	"edges":[]
+}
