@@ -77,3 +77,7 @@
 - **El arte de amar** - Erich Fromm
      
 - **La biblioteca de la medianoche** - Matt Haig _(Estructura repetitiva y falta de profundidad literaria)_
+	
+- **El Arco y la lira** - Octavio Paz
+	
+- 
