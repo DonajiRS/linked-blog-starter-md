@@ -1,0 +1,1 @@
+Hacer macetas con mapas topologicos de distintos lugares para imprimir un cuadro para pared con plantas que sean empotrables y modulares 
