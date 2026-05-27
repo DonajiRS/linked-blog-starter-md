@@ -10,7 +10,9 @@
 		{"id":"3924854647a81d17","type":"link","url":"https://www.thingiverse.com/thing:903411","x":-34,"y":60,"width":316,"height":322},
 		{"id":"47e435856152b558","type":"text","text":"Producto planta portabasos\n\nhttps://www.thingiverse.com/thing:6721751","x":-350,"y":440,"width":280,"height":122},
 		{"id":"9b5a4014e769de20","type":"text","text":"Maceta autoregable\n\nhttps://www.thingiverse.com/thing:903411","x":-30,"y":440,"width":259,"height":120},
-		{"id":"645ce693db6ba7dc","type":"link","url":"https://www.ecoengineeringhub.com/diy-automatic-plant-watering-system/?utm_source=Pinterest&utm_medium=organic","x":300,"y":60,"width":324,"height":322}
+		{"id":"645ce693db6ba7dc","type":"link","url":"https://www.ecoengineeringhub.com/diy-automatic-plant-watering-system/?utm_source=Pinterest&utm_medium=organic","x":300,"y":60,"width":324,"height":322},
+		{"id":"ca57a880dcf3f1e1","x":-350,"y":600,"width":400,"height":400,"type":"link","url":"https://www.ube.ac.uk/whats-happening/articles/parametric-design/"},
+		{"id":"88eb60c9a39e7660","x":82,"y":600,"width":400,"height":400,"type":"link","url":"https://parametricbydesign.com/"}
 	],
 	"edges":[]
 }
