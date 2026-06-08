@@ -1,0 +1,9 @@
+[[Mini-essay]]
+Cuando en su momento me vendí la idea de que solamente necesitaba, algo que leer, algo que comer y un lugar donde dormir, no se si estaba muy dispuesto a la idea, o si me vendí muy bien la idea, pero es fecha que aun siento que creo en estas ideas, siento que las creo porque en su momento me las repetí a mi mismo tanto como para darles un espacio fijo en mi mente, esto me hizo reflexionar, acaso no puedo venderme de la misma forma otras ideas, la idea de que no necesito consumir en cada momento que me es posible algo, que esta bien aburrirme, que la paciencia es no solo una capacidad que se tiene, si no algo que se entrena y la cual es mas que importante para convivir con calma con nuestros seres queridos y con el universo en general, somos capaces de buscar la virtud y creo que esto debería ser suficiente motivo como para hacer el esfuerzo necesario para alcanzar dicha virtud, la virtud de entender el universo desde la perspectiva que nos toco vivir, pero sobre todo desde todas las otras perspectivas que estan al rededor nuestro, desde todas esas visiones que experimentan el mundo y de las cuales somos capaces de aprender, no porque ellos nos van a enseñar algo, si no porque somos capaces de aprender, porque el aprendizaje es un acto activo, para nada pasivo como muchos podrían creer. 
+Creo que puedo estar bien con el aburrimiento
+Creo que puedo estar bien con una rutina 
+Creo que puedo estar bien con limites
+Creo que puedo buscar la virtud otra vez
+Creo que puedo crear cosas que mejoren la vida de las personas 
+Creo que puedo compartir felicidad con mis seres queridos
+Creo que puedo ser feliz.
