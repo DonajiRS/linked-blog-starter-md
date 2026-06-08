@@ -15,10 +15,7 @@
 		{"id":"88eb60c9a39e7660","type":"link","url":"https://parametricbydesign.com/","x":82,"y":600,"width":400,"height":400},
 		{"id":"57d1f5dabeea8447","type":"link","url":"https://uelectronics.com/productos-recien-agregados/","x":525,"y":600,"width":400,"height":400},
 		{"id":"bcb70dc52e4621e2","type":"link","url":"https://esp-claw.com/en/","x":980,"y":600,"width":400,"height":400},
-		{"id":"5e28e93e0d4e9453","type":"link","url":"https://www.codices.inah.gob.mx/pc/index.php","x":-350,"y":1040,"width":400,"height":400},
-		{"id":"17b4bbdfe11b5fb0","type":"text","text":"Folia PAge","x":800,"y":-840,"width":250,"height":60},
-		{"id":"9ad3744e53ddaa07","type":"link","url":"https://www.biccamera.com/bc/c/bicidea/index.jsp","x":800,"y":-680,"width":270,"height":275,"color":"3"},
-		{"id":"6776e37c9e4233b9","type":"link","url":"https://mira-dev.webflow.io/","x":1120,"y":-680,"width":320,"height":275}
+		{"id":"5e28e93e0d4e9453","type":"link","url":"https://www.codices.inah.gob.mx/pc/index.php","x":-350,"y":1040,"width":400,"height":400}
 	],
 	"edges":[]
 }
