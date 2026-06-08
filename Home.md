@@ -1,6 +1,6 @@
 # Pendientes
 ---
-
+Lista de tareas que hacen falta hacer
 ## Casa
 - [ ] ⏫ Organizar los cajones de la cocina
 - [ ] ➕ 2026-06-08 Organizar el Taller
