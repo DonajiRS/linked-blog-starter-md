@@ -21,11 +21,6 @@
 ## Constantes
 ---
 
-| Domingo                                                  | Lunes                                                                                  | Martes                                        | Miercoles                                                               | Jueves                                         | Viernes                                                                               | Sabado                                       | Diario                           |
-| -------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------- |
-| - [ ] Limpiar la casa, Meal prep 🔁 every week on Sunday | - [ ] Hacer ejercicio Limpiarle a los gatos,  y sacar la basura🔁 every week on Monday | - [ ] Hacer ejercicio🔁 every week on Tuesday | - [ ] Limpiarle a los gatos y sacar la basura🔁 every week on Wednesday | - [ ] Hacer ejercicio🔁 every week on Thursday | - [ ] Hacer ejercicio, limpiarle a los gatos y sacar la basura🔁 every week on Friday | - [ ] Lavar la ropa🔁 every week on Saturday | - [ ] Meditar, Leer 🔁 every day |
-|                                                          |                                                                                        |                                               |                                                                         |                                                |                                                                                       |                                              |                                  |
-
 - [ ] Limpiar la casa, Meal prep🔁 every week on Sunday  
 - [ ] Hacer ejercicio Limpiarle a los gatos,  y sacar la basura🔁 every week on Monday 
 - [ ] Hacer ejercicio🔁 every week on Tuesday 
