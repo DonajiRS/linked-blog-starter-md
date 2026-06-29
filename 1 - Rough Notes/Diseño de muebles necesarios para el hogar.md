@@ -1,4 +1,4 @@
-
+[[Ideas]]
 Clarificar los espacios necesarios para la convivencia en una vivienda
 ## Espacios imprescindibles en una vivienda  
 
@@ -11,4 +11,6 @@ Clarificar los espacios necesarios para la convivencia en una vivienda
 7. Área de lavado
 8. Oficina/Estudio
 9. 
- 
+
+Basado en estos espacios necesitamos definir ciertos muebles indispensables para la comodidad de un hogar
+

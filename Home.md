@@ -1,20 +1,7 @@
 # Pendientes
 ---
-## Constantes
----
-
-- [ ] Limpiar la casa, Meal prep🔁 every week on Sunday  
-- [ ] Hacer ejercicio Limpiarle a los gatos,  y sacar la basura🔁 every week on Monday 
-- [ ] Hacer ejercicio🔁 every week on Tuesday 
-- [ ] Limpiarle a los gatos y sacar la basura🔁 every week on Wednesday 
-- [ ] Hacer ejercicio🔁 every week on Thursday 
-- [ ] Hacer ejercicio, limpiarle a los gatos y sacar la basura🔁 every week on Friday 
-- [ ] Lavar la ropa🔁 every week on Saturday 
-- [ ] Meditar, Leer 🔁 every day
-
 ## Casa
 ---
-- [ ] ⏫ Organizar los cajones de la cocina
 - [ ] ➕ 2026-06-08 Organizar el Taller
 - [ ] ➕ 2026-06-08 Organizar el cuarto de maquinas
 - [ ] ➕ 2026-06-08 Planear los muebles para el espacio nuevo en la sala 
@@ -30,5 +17,18 @@
 ## Vida
 ---
 - [ ] ➕ 2026-06-08 Tener y ser de Erich Fromm, recopilar las notas para crear las reflexiones para tenerlo listo para el ⏳ 2026-06-25
+- [ ] ➕ 2026-06-08 Understanding industrial design
+- [ ] ➕ 2026-06-08 
 - [ ] ➕ 2026-06-08 Crear la pagina web para folia
 
+## Constantes
+---
+
+- [ ] Limpiar la casa, Meal prep🔁 every week on Sunday  
+- [ ] Hacer ejercicio Limpiarle a los gatos,  y sacar la basura🔁 every week on Monday 
+- [ ] Hacer ejercicio🔁 every week on Tuesday 
+- [ ] Limpiarle a los gatos y sacar la basura🔁 every week on Wednesday 
+- [ ] Hacer ejercicio🔁 every week on Thursday 
+- [ ] Hacer ejercicio, limpiarle a los gatos y sacar la basura🔁 every week on Friday 
+- [ ] Lavar la ropa🔁 every week on Saturday 
+- [ ] Meditar, Leer 🔁 every day

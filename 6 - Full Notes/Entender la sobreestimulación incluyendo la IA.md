@@ -1,0 +1,6 @@
+ Fecha:  11-06-2026 16:17
+ Tags: [[Daily]], [[Reflexión]]
+ 
+---
+Jamás había considerado el uso de la inteligencia artificial como algo sobre estimulante, supongo que por la facilidad con la cual podía creer que esta me era útil y productiva para mi vida, me refiero a que en el uso correcto claro que lo es, pero cuando simplemente te vuelves un engrane que hace que algo mas funcione, creo que no es tan diferente de las redes sociales, en redes sociales comentas, das likes, compartes, formando este engranaje para conseguir que la maquinaria siga, sin darte cuenta de lo insignificante que te vuelves al interactuar erróneamente con ellas.
+Por otro lado, los LLM con chats a los cuales puedes consultar ideas y avanzar en la creación de cosas que se vuelven útiles para ti es una forma buena de aprovechar la herramienta, pero con la posibilidad que tenia para crear indiscriminadamente cualquier cosa desde un agente el cual no tenia ni idea de cuanto me estaba costando, es evidente que arremetí contra mi mismo mas que contra ninguna otra cosa, contra mi capacidad analítica de resolver un problema observando la fricción y aceptándola como parte del proceso.
