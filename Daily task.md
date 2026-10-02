@@ -2,12 +2,10 @@
  Tags:
  
 ---
- - [ ] Comprar pollo, 3 charolas
- - [ ] Comprar Bolillo jitomate huevo
- - [ ] Probar yoga nidra: https://www.youtube.com/watch?v=p1zBXCL9Rus
+ - [x] Probar yoga nidra: https://www.youtube.com/watch?v=p1zBXCL9Rus ✅ 2026-07-02
  - [ ] cortar la madera para probar el prototipo de serneador
- - [ ] 
-- [ ] Leer 
+ - [ ] Barrer la casa
+- [ ] Leer
 - [ ] Meditar
 - [ ] Estirar
 - [ ] Escribir

@@ -34,7 +34,10 @@
 		{"id":"80d86e938ba93afd","type":"text","text":"Origami 3D\nhttps://www.youtube.com/watch?v=FNVBK7-h9Fs&t=190s","x":-635,"y":-800,"width":250,"height":60},
 		{"id":"be39d19e1cd862ee","type":"text","text":"Kumiko panel\nhttps://www.youtube.com/watch?v=w5P7E7muk9o&pp=ugUHEgVlcy1VUw%3D%3D","x":-626,"y":-668,"width":241,"height":100},
 		{"id":"1c7ba2ca852338bf","type":"text","text":"Macetas con kumiko panels para poder cambiar tus diseños y que se vuelva una obra de arte a tu medida","x":-940,"y":-654,"width":278,"height":73},
-		{"id":"865dd9b7c83628d6","x":-929,"y":-826,"width":267,"height":113,"type":"text","text":"Rino ceros design tela \nhttps://www.tiktok.com/@boceto3d/video/7522682249196752134\n\nhttps://www.tiktok.com/@boceto3d/video/7525274187741564166"}
+		{"id":"865dd9b7c83628d6","type":"text","text":"Rino ceros design tela \nhttps://www.tiktok.com/@boceto3d/video/7522682249196752134\n\nhttps://www.tiktok.com/@boceto3d/video/7525274187741564166","x":-929,"y":-826,"width":267,"height":113},
+		{"id":"538b6ad1c4603dd5","type":"file","file":"Git2/Images/Pasted image 20260630180024.png","x":680,"y":-464,"width":265,"height":249},
+		{"id":"a77e4ce3f2f4f854","type":"file","file":"Git2/Images/Pasted image 20260630180113.png","x":683,"y":-189,"width":262,"height":203},
+		{"id":"2a906e3693d529da","x":-929,"y":-494,"width":250,"height":60,"color":"4","type":"text","text":"# Cafe vivero"}
 	],
 	"edges":[
 		{"id":"185c14d97174a037","fromNode":"72a88680a32b7956","fromSide":"bottom","toNode":"78a0e83da7227bc3","toSide":"top"},

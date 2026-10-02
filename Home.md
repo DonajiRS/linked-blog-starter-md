@@ -1,5 +1,7 @@
 # Pendientes
 ---
+Reunión semanal conmigo mismo, en contra de la mediocridad
+
 ## Casa
 ---
 - [ ] ➕ 2026-06-08 Organizar el Taller

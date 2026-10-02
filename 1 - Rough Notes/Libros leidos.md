@@ -78,6 +78,6 @@
      
 - **La biblioteca de la medianoche** - Matt Haig _(Estructura repetitiva y falta de profundidad literaria)_
 	
-- **El Arco y la lira** - Octavio Paz
+- **La guerra del arte** - Steven Pressfield 
 	
-- 
+- **El arco y la lira** - Octavio Paz

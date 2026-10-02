@@ -1,4 +1,4 @@
-[[Trabajo]]
+[[Git2/3 - Tags/Trabajo]]
 
 	Cuentas por cobrar | Ingresos | Egresos | Clientes con mas ventas | Margenes de ventas | Productos mas vendidos | Productos con mejor margen | Mapa de identifiación de cobertura | 
 

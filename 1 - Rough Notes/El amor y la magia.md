@@ -1,0 +1,6 @@
+ Fecha:  21-07-2026 15:27
+ Tags:
+ 
+---
+El otro día, hablando con mi tío y un amigo suyo, me di cuenta por primera vez, de la homología del amor y la magia, esta sensación de necesitar no entender algo para poder disfrutar de esto mismo, de tener la capacidad de maravillarse ante lo desconocido, de poder sentir con mas intensidad aquellas experiencias vividas, como la primera vez que me dispuse a escribir algo y sentí, sin entender porque, sin intenciones de comprenderlo mas a fondo que había echo magia de alguna forma, que de un momento malo, de un día pesado, de algo lindo, algo feo, cualquier cosa podía ser transformado con el lenguaje y el arte para crear algo mas.
+Así mismo, pienso en la inocencia del ignorante, que quizás no decide activamente ignorar aquello que algunos si conocen, si no que simplemente no lo sabe, no le importa y para el resulta innecesario saberlo, para que le sirve a alguien la tristeza de conocer la situación del mundo, de los niños desamparados, de aquellos con hambre.

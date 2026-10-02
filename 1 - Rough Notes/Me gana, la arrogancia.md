@@ -1,0 +1,5 @@
+ Fecha:  21-07-2026 09:57
+ Tags: [[Reflexión]], [[Mini-essay]]
+ 
+---
+En muchos momentos de mi vida, sin darme cuenta, volteo a ver los problemas de los demás, porque es mas fácil que mirar los míos, porque se que desde la arrogancia puedo voltear a verlos hacia abajo creyéndome superior, sin evidencias ni ninguna razón para creerme esto, simplemente porque es reconfortante creer que yo estoy bien, que yo soy mejor, que los demás están equivocados, y en ese momento me quedo ciego, de mis propios problemas evitando voltear a ver el caos en mi, "resolviendo" en mi mente los problemas de los demás, creyendo que tengo la respuesta siempre, en lugar de aceptar un poco mi incapacidad y darme cuenta que no es debilidad, si no humildad, con la cual apoyaras el siguiente ladrillo para construir una mejor versión de ti.
